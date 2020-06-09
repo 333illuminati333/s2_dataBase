@@ -1,0 +1,72 @@
+INFO:root:2020-06-09 20:49:41.964133 User: josephduncan : register 
+
+INFO:root:2020-06-09 20:49:41.965129 User: josephduncan : log in 
+
+INFO:root:2020-06-09 20:49:43.973154 User: christinawatson : register 
+
+INFO:root:2020-06-09 20:49:43.974151 User: christinawatson : log in 
+
+INFO:root:2020-06-09 20:49:45.982873 User: brownbrandon : register 
+
+INFO:root:2020-06-09 20:49:45.983948 User: brownbrandon : log in 
+
+INFO:root:2020-06-09 20:49:47.992899 User: shelley04 : register 
+
+INFO:root:2020-06-09 20:49:47.994437 User: shelley04 : log in 
+
+INFO:root:2020-06-09 20:49:50.000201 User: sanchezdarrell : register 
+
+INFO:root:2020-06-09 20:49:50.001146 User: sanchezdarrell : log in 
+
+INFO:root:2020-06-09 20:49:52.013803 User: florescharles : register 
+
+INFO:root:2020-06-09 20:49:52.014683 User: florescharles : log in 
+
+INFO:root:2020-06-09 20:49:54.023267 User: gpoole : register 
+
+INFO:root:2020-06-09 20:49:54.024365 User: gpoole : log in 
+
+INFO:root:2020-06-09 20:50:24.413141 User: bwilliams : register 
+
+INFO:root:2020-06-09 20:50:24.413141 User: bwilliams : log in 
+
+INFO:root:2020-06-09 20:50:26.423096 User: clin : register 
+
+INFO:root:2020-06-09 20:50:26.424618 User: clin : log in 
+
+INFO:root:2020-06-09 20:50:28.431816 User: lesterholly : register 
+
+INFO:root:2020-06-09 20:50:28.432813 User: lesterholly : log in 
+
+INFO:root:2020-06-09 20:50:30.439248 User: john77 : register 
+
+INFO:root:2020-06-09 20:50:30.440795 User: john77 : log in 
+
+INFO:root:2020-06-09 20:50:32.450375 User: joseph64 : register 
+
+INFO:root:2020-06-09 20:50:32.451373 User: joseph64 : log in 
+
+INFO:root:2020-06-09 20:50:34.459207 User: hicksholly : register 
+
+INFO:root:2020-06-09 20:50:34.460075 User: hicksholly : log in 
+
+INFO:root:2020-06-09 20:50:36.471433 User: gary25 : register 
+
+INFO:root:2020-06-09 20:50:36.472537 User: gary25 : log in 
+
+INFO:root:2020-06-09 20:56:07.432153 User: sas : register 
+
+INFO:root:2020-06-09 20:56:19.093037 User: sas : log in 
+
+INFO:root:2020-06-09 20:56:30.257065 User: None : log out 
+
+INFO:root:2020-06-09 20:56:36.964302 User: user1 : register 
+
+INFO:root:2020-06-09 20:56:44.656220 User: user2 : register 
+
+INFO:root:2020-06-09 20:56:57.358045 User: user1 : log in 
+
+INFO:root:2020-06-09 20:57:23.167396 User: None : log out 
+
+INFO:root:2020-06-09 20:57:31.170408 User: user2 : log in 
+
